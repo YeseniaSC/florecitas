@@ -1360,7 +1360,7 @@ body {
 
 .text-overlay h1 {
   font-size: 3vmin;
-  color: #fff700; /* Color amarillo brillante */
+  color: #FFFFFF; 
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); /* Sombra para destacar el texto */
   font-family: 'Arial', sans-serif;
   animation: fadeIn 3s ease-in-out; /* Animación suave para que el texto aparezca */
